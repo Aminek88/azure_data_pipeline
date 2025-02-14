@@ -1,0 +1,9 @@
+{
+	"name": "xxdatafact",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de509152-e8ef-470e-ac3f-34d11819cdcf",
+		"tenantId": "a2e466aa-4f86-4545-b5b8-97da7c8febf3"
+	}
+}
